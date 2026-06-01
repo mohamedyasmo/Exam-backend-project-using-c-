@@ -1,0 +1,28 @@
+D:\coding\c#\project1_v4\project1_v4\bin\Debug\net9.0\project1_v4.exe
+D:\coding\c#\project1_v4\project1_v4\bin\Debug\net9.0\project1_v4.deps.json
+D:\coding\c#\project1_v4\project1_v4\bin\Debug\net9.0\project1_v4.runtimeconfig.json
+D:\coding\c#\project1_v4\project1_v4\bin\Debug\net9.0\project1_v4.dll
+D:\coding\c#\project1_v4\project1_v4\bin\Debug\net9.0\project1_v4.pdb
+D:\coding\c#\project1_v4\project1_v4\obj\Debug\net9.0\project1_v4.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\c#\project1_v4\project1_v4\obj\Debug\net9.0\project1_v4.AssemblyInfoInputs.cache
+D:\coding\c#\project1_v4\project1_v4\obj\Debug\net9.0\project1_v4.AssemblyInfo.cs
+D:\coding\c#\project1_v4\project1_v4\obj\Debug\net9.0\project1_v4.csproj.CoreCompileInputs.cache
+D:\coding\c#\project1_v4\project1_v4\obj\Debug\net9.0\project1_v4.dll
+D:\coding\c#\project1_v4\project1_v4\obj\Debug\net9.0\refint\project1_v4.dll
+D:\coding\c#\project1_v4\project1_v4\obj\Debug\net9.0\project1_v4.pdb
+D:\coding\c#\project1_v4\project1_v4\obj\Debug\net9.0\project1_v4.genruntimeconfig.cache
+D:\coding\c#\project1_v4\project1_v4\obj\Debug\net9.0\ref\project1_v4.dll
+D:\coding mohamed\c#\project1_v4\project1_v4\bin\Debug\net9.0\project1_v4.exe
+D:\coding mohamed\c#\project1_v4\project1_v4\bin\Debug\net9.0\project1_v4.deps.json
+D:\coding mohamed\c#\project1_v4\project1_v4\bin\Debug\net9.0\project1_v4.runtimeconfig.json
+D:\coding mohamed\c#\project1_v4\project1_v4\bin\Debug\net9.0\project1_v4.dll
+D:\coding mohamed\c#\project1_v4\project1_v4\bin\Debug\net9.0\project1_v4.pdb
+D:\coding mohamed\c#\project1_v4\project1_v4\obj\Debug\net9.0\project1_v4.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding mohamed\c#\project1_v4\project1_v4\obj\Debug\net9.0\project1_v4.AssemblyInfoInputs.cache
+D:\coding mohamed\c#\project1_v4\project1_v4\obj\Debug\net9.0\project1_v4.AssemblyInfo.cs
+D:\coding mohamed\c#\project1_v4\project1_v4\obj\Debug\net9.0\project1_v4.csproj.CoreCompileInputs.cache
+D:\coding mohamed\c#\project1_v4\project1_v4\obj\Debug\net9.0\project1_v4.dll
+D:\coding mohamed\c#\project1_v4\project1_v4\obj\Debug\net9.0\refint\project1_v4.dll
+D:\coding mohamed\c#\project1_v4\project1_v4\obj\Debug\net9.0\project1_v4.pdb
+D:\coding mohamed\c#\project1_v4\project1_v4\obj\Debug\net9.0\project1_v4.genruntimeconfig.cache
+D:\coding mohamed\c#\project1_v4\project1_v4\obj\Debug\net9.0\ref\project1_v4.dll
